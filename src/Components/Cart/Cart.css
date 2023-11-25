@@ -1,0 +1,33 @@
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blueviolet;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.bold {
+    font-size: large;
+}
+
+.border {
+    border: 2px solid black;
+    border-radius: 15px;
+    font-weight: bolder;
+}
